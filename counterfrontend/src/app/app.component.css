@@ -1,0 +1,31 @@
+.example-form {
+    min-width: 150px;
+    max-width: 500px;
+    width: 100%;
+  }
+
+  .example-full-width {
+    width: 100%;
+  }
+
+  .box {
+    margin: 60px 0px 0px 433px;
+  }
+  table {
+    width: 100%;
+  }
+
+  .mat-form-field {
+    font-size: 14px;
+    width: 100%;
+  }
+
+  td, th {
+    width: 25%;
+  }
+  .box2 {
+    margin: 30px 300px 0px 300px;
+  }
+  table {
+    width: 100%;
+  }
